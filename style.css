@@ -1,0 +1,16 @@
+h1{
+    font-size: 80px;
+    text-align: center;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.new{
+    margin: 0 auto;
+    width: 500px;
+}
+.new2{
+    font-size: 40px !important;
+    background-color: black;
+    color: aquamarine;
+}
